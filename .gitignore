@@ -54,3 +54,4 @@ jspm_packages
 #vscode
 .vscode
 .vscode/launch.json
+/.vscode/launch.json

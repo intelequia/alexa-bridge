@@ -2,6 +2,7 @@
 	// Use IntelliSense to learn about possible Node.js debug attributes.
 	// Hover to view descriptions of existing attributes.
 	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	// Rename this file to launch.json to work with VSCode
 	"version": "0.2.0",
 	"configurations": [
 		{
@@ -11,9 +12,9 @@
 			"program": "${workspaceRoot}/server.js",
 			"cwd": "${workspaceRoot}",
 			"env": {
-				"botId" : "jsday-bot",
-				"directLineSecret" : "jtuCtJNCuIk.cwA.jNU.kmtuy_rsINA1ckt4TcJ8idFn4b7MXcDCJvp2WPODwSQ",
-				"APPINSIGHTS_INSTRUMENTATIONKEY" : "ed461248-e752-4174-a919-4c8965fbb83d",
+				"botId" : "<yout bot name>",
+				"directLineSecret" : "<directLineSecret>",
+				"APPINSIGHTS_INSTRUMENTATIONKEY" : "<AppInsights Instrumentation Key>",
 				"promptPhrase"	: "¿Te puedo ayudar en algo más?",
 				"progressiveResponse" : "Estoy trabajando en ello",
 				"msglocale" : "es-ES",
