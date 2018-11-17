@@ -23,6 +23,7 @@
 				"useMultipleResponses" : "true",
 				"multipleResponsesTimeout" : "100",
 				"useWebsocket" : "true",
+				"useStartConversationEvent": "false",
 				"directLineDomain": "https://directline.botframework.com/v3/directline"
 			}			
 		},
