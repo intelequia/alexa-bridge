@@ -1,0 +1,1 @@
+curl "https://%WEBSITE_HOSTNAME%/warmsite"
